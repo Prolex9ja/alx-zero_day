@@ -1,1 +1,1 @@
-Readmi for this repository
+Readme for this directory
